@@ -32,10 +32,12 @@
       ],
       "wikidataId": "Q12927",
       "media": {
-        "photoURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/%D0%9C%D0%B0%D1%80%D0%B8%D0%BD_%D0%9B%D0%B5_%D0%9F%D0%B5%D0%BD_%2828-01-2022%29.jpg/960px-%D0%9C%D0%B0%D1%80%D0%B8%D0%BD_%D0%9B%D0%B5_%D0%9F%D0%B5%D0%BD_%2828-01-2022%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "photoURL": "https://pourquivoter.github.io/pourquivoter-content/v1/photos/lepen.jpg",
         "photoAttribution": "Photo : VOX España / Wikimedia Commons, Public domain",
         "photoLicense": "Public domain",
-        "photoSourcePage": "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B0%D1%80%D0%B8%D0%BD_%D0%9B%D0%B5_%D0%9F%D0%B5%D0%BD_(28-01-2022).jpg"
+        "photoSourcePage": "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B0%D1%80%D0%B8%D0%BD_%D0%9B%D0%B5_%D0%9F%D0%B5%D0%BD_(28-01-2022).jpg",
+        "photoMirroredFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/%D0%9C%D0%B0%D1%80%D0%B8%D0%BD_%D0%9B%D0%B5_%D0%9F%D0%B5%D0%BD_%2828-01-2022%29.jpg/960px-%D0%9C%D0%B0%D1%80%D0%B8%D0%BD_%D0%9B%D0%B5_%D0%9F%D0%B5%D0%BD_%2828-01-2022%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "photoMirroredAt": "2026-09-16"
       },
       "links": {
         "officialProgramURL": null,
@@ -110,10 +112,12 @@
       "keyProposals": [],
       "wikidataId": "Q288477",
       "media": {
-        "photoURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Portrait_d%27%C3%89ric_Zemmour%2C_avril_2022.jpg/960px-Portrait_d%27%C3%89ric_Zemmour%2C_avril_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "photoURL": "https://pourquivoter.github.io/pourquivoter-content/v1/photos/zemmour.jpg",
         "photoAttribution": "Photo : Anh De France / Wikimedia Commons, CC0",
         "photoLicense": "CC0",
-        "photoSourcePage": "https://commons.wikimedia.org/wiki/File:Portrait_d%27%C3%89ric_Zemmour,_avril_2022.jpg"
+        "photoSourcePage": "https://commons.wikimedia.org/wiki/File:Portrait_d%27%C3%89ric_Zemmour,_avril_2022.jpg",
+        "photoMirroredFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Portrait_d%27%C3%89ric_Zemmour%2C_avril_2022.jpg/960px-Portrait_d%27%C3%89ric_Zemmour%2C_avril_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "photoMirroredAt": "2026-09-16"
       },
       "links": {
         "officialProgramURL": null,
@@ -148,10 +152,12 @@
       "keyProposals": [],
       "wikidataId": "Q2926942",
       "media": {
-        "photoURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Bruno_Retailleau_-_Ministre_de_l%27Int%C3%A9rieur_fran%C3%A7ais_%28cropped%29.jpg/960px-Bruno_Retailleau_-_Ministre_de_l%27Int%C3%A9rieur_fran%C3%A7ais_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "photoURL": "https://pourquivoter.github.io/pourquivoter-content/v1/photos/retailleau.jpg",
         "photoAttribution": "Photo : Anthonymontardyfr / Wikimedia Commons, CC BY 4.0",
         "photoLicense": "CC BY 4.0",
-        "photoSourcePage": "https://commons.wikimedia.org/wiki/File:Bruno_Retailleau_-_Ministre_de_l%27Int%C3%A9rieur_fran%C3%A7ais_(cropped).jpg"
+        "photoSourcePage": "https://commons.wikimedia.org/wiki/File:Bruno_Retailleau_-_Ministre_de_l%27Int%C3%A9rieur_fran%C3%A7ais_(cropped).jpg",
+        "photoMirroredFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Bruno_Retailleau_-_Ministre_de_l%27Int%C3%A9rieur_fran%C3%A7ais_%28cropped%29.jpg/960px-Bruno_Retailleau_-_Ministre_de_l%27Int%C3%A9rieur_fran%C3%A7ais_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "photoMirroredAt": "2026-09-16"
       },
       "links": {
         "officialProgramURL": null,
@@ -186,10 +192,12 @@
       "keyProposals": [],
       "wikidataId": "Q3579995",
       "media": {
-        "photoURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/%C3%89douard_Philippe_2019_%28cropped%29.jpg/960px-%C3%89douard_Philippe_2019_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "photoURL": "https://pourquivoter.github.io/pourquivoter-content/v1/photos/philippe.jpg",
         "photoAttribution": "Photo : Jacques Paquier / Wikimedia Commons, CC BY 2.0",
         "photoLicense": "CC BY 2.0",
-        "photoSourcePage": "https://commons.wikimedia.org/wiki/File:%C3%89douard_Philippe_2019_(cropped).jpg"
+        "photoSourcePage": "https://commons.wikimedia.org/wiki/File:%C3%89douard_Philippe_2019_(cropped).jpg",
+        "photoMirroredFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/%C3%89douard_Philippe_2019_%28cropped%29.jpg/960px-%C3%89douard_Philippe_2019_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "photoMirroredAt": "2026-09-16"
       },
       "links": {
         "officialProgramURL": null,
@@ -222,10 +230,12 @@
       "keyProposals": [],
       "wikidataId": "Q3018298",
       "media": {
-        "photoURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/David_Lisnard_-_2013.jpg/960px-David_Lisnard_-_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "photoURL": "https://pourquivoter.github.io/pourquivoter-content/v1/photos/lisnard.jpg",
         "photoAttribution": "Photo : Frantogian / Wikimedia Commons, CC BY-SA 3.0",
         "photoLicense": "CC BY-SA 3.0",
-        "photoSourcePage": "https://commons.wikimedia.org/wiki/File:David_Lisnard_-_2013.jpg"
+        "photoSourcePage": "https://commons.wikimedia.org/wiki/File:David_Lisnard_-_2013.jpg",
+        "photoMirroredFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/David_Lisnard_-_2013.jpg/960px-David_Lisnard_-_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "photoMirroredAt": "2026-09-16"
       },
       "links": {
         "officialProgramURL": null,
@@ -260,10 +270,12 @@
       "keyProposals": [],
       "wikidataId": "Q30339350",
       "media": {
-        "photoURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Gabriel_Attal_2025_%28close_crop%29.jpg/960px-Gabriel_Attal_2025_%28close_crop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "photoURL": "https://pourquivoter.github.io/pourquivoter-content/v1/photos/attal.jpg",
         "photoAttribution": "Photo : Ismail Aissoub / Wikimedia Commons, CC BY 4.0",
         "photoLicense": "CC BY 4.0",
-        "photoSourcePage": "https://commons.wikimedia.org/wiki/File:Gabriel_Attal_2025_(close_crop).jpg"
+        "photoSourcePage": "https://commons.wikimedia.org/wiki/File:Gabriel_Attal_2025_(close_crop).jpg",
+        "photoMirroredFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Gabriel_Attal_2025_%28close_crop%29.jpg/960px-Gabriel_Attal_2025_%28close_crop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "photoMirroredAt": "2026-09-16"
       },
       "links": {
         "officialProgramURL": null,
@@ -296,10 +308,12 @@
       "keyProposals": [],
       "wikidataId": "Q556149",
       "media": {
-        "photoURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/2024-03-03_-_Congr%C3%A8s_du_PSE-_105_-_Raphael_Glucksmann.jpg/960px-2024-03-03_-_Congr%C3%A8s_du_PSE-_105_-_Raphael_Glucksmann.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "photoURL": "https://pourquivoter.github.io/pourquivoter-content/v1/photos/glucksmann.jpg",
         "photoAttribution": "Photo : Mathieu Delmestre / Wikimedia Commons, Public domain",
         "photoLicense": "Public domain",
-        "photoSourcePage": "https://commons.wikimedia.org/wiki/File:2024-03-03_-_Congr%C3%A8s_du_PSE-_105_-_Raphael_Glucksmann.jpg"
+        "photoSourcePage": "https://commons.wikimedia.org/wiki/File:2024-03-03_-_Congr%C3%A8s_du_PSE-_105_-_Raphael_Glucksmann.jpg",
+        "photoMirroredFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/2024-03-03_-_Congr%C3%A8s_du_PSE-_105_-_Raphael_Glucksmann.jpg/960px-2024-03-03_-_Congr%C3%A8s_du_PSE-_105_-_Raphael_Glucksmann.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "photoMirroredAt": "2026-09-16"
       },
       "links": {
         "officialProgramURL": null,
@@ -334,10 +348,12 @@
       "keyProposals": [],
       "wikidataId": "Q29917987",
       "media": {
-        "photoURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Huma2023MarineTondelier.jpg/960px-Huma2023MarineTondelier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "photoURL": "https://pourquivoter.github.io/pourquivoter-content/v1/photos/tondelier.jpg",
         "photoAttribution": "Photo : Selbymay / Wikimedia Commons, CC BY 4.0",
         "photoLicense": "CC BY 4.0",
-        "photoSourcePage": "https://commons.wikimedia.org/wiki/File:Huma2023MarineTondelier.jpg"
+        "photoSourcePage": "https://commons.wikimedia.org/wiki/File:Huma2023MarineTondelier.jpg",
+        "photoMirroredFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Huma2023MarineTondelier.jpg/960px-Huma2023MarineTondelier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "photoMirroredAt": "2026-09-16"
       },
       "links": {
         "officialProgramURL": null,
@@ -371,10 +387,12 @@
       "keyProposals": [],
       "wikidataId": "Q3085763",
       "media": {
-        "photoURL": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Fran%C3%A7ois_Ruffin_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "photoURL": "https://pourquivoter.github.io/pourquivoter-content/v1/photos/ruffin.jpg",
         "photoAttribution": "Photo : Thinkerview / Wikimedia Commons, CC BY-SA 4.0",
         "photoLicense": "CC BY-SA 4.0",
-        "photoSourcePage": "https://commons.wikimedia.org/wiki/File:Fran%C3%A7ois_Ruffin_(cropped).jpg"
+        "photoSourcePage": "https://commons.wikimedia.org/wiki/File:Fran%C3%A7ois_Ruffin_(cropped).jpg",
+        "photoMirroredFrom": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Fran%C3%A7ois_Ruffin_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "photoMirroredAt": "2026-09-16"
       },
       "links": {
         "officialProgramURL": null,
@@ -410,10 +428,12 @@
       "keyProposals": [],
       "wikidataId": "Q5829",
       "media": {
-        "photoURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/M%C3%A9lenchon_2027_-_55262255527_%28cropped_3-4%29.png/960px-M%C3%A9lenchon_2027_-_55262255527_%28cropped_3-4%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "photoURL": "https://pourquivoter.github.io/pourquivoter-content/v1/photos/melenchon.png",
         "photoAttribution": "Photo : jlm2017.fr / Wikimedia Commons, CC BY 4.0",
         "photoLicense": "CC BY 4.0",
-        "photoSourcePage": "https://commons.wikimedia.org/wiki/File:M%C3%A9lenchon_2027_-_55262255527_(cropped_3-4).png"
+        "photoSourcePage": "https://commons.wikimedia.org/wiki/File:M%C3%A9lenchon_2027_-_55262255527_(cropped_3-4).png",
+        "photoMirroredFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/M%C3%A9lenchon_2027_-_55262255527_%28cropped_3-4%29.png/960px-M%C3%A9lenchon_2027_-_55262255527_%28cropped_3-4%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "photoMirroredAt": "2026-09-16"
       },
       "links": {
         "officialProgramURL": null,
@@ -448,10 +468,12 @@
       "keyProposals": [],
       "wikidataId": "Q30388733",
       "media": {
-        "photoURL": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Roussel_Fabien_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "photoURL": "https://pourquivoter.github.io/pourquivoter-content/v1/photos/roussel.jpg",
         "photoAttribution": "Photo : Zouhair NAKARA / Wikimedia Commons, CC BY-SA 4.0",
         "photoLicense": "CC BY-SA 4.0",
-        "photoSourcePage": "https://commons.wikimedia.org/wiki/File:Roussel_Fabien_1.jpg"
+        "photoSourcePage": "https://commons.wikimedia.org/wiki/File:Roussel_Fabien_1.jpg",
+        "photoMirroredFrom": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Roussel_Fabien_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "photoMirroredAt": "2026-09-16"
       },
       "links": {
         "officialProgramURL": null,
@@ -482,10 +504,12 @@
       "note": "Candidature dissidente à droite.",
       "wikidataId": "Q203793",
       "media": {
-        "photoURL": "https://upload.wikimedia.org/wikipedia/commons/9/97/Xavier_Bertrand_-_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "photoURL": "https://pourquivoter.github.io/pourquivoter-content/v1/photos/bertrand.jpg",
         "photoAttribution": "Photo : Claudio Centonze / European Union, 2025 / EC - Audiovisual Service / Wikimedia Commons, CC BY 4.0",
         "photoLicense": "CC BY 4.0",
-        "photoSourcePage": "https://commons.wikimedia.org/wiki/File:Xavier_Bertrand_-_2025_(cropped).jpg"
+        "photoSourcePage": "https://commons.wikimedia.org/wiki/File:Xavier_Bertrand_-_2025_(cropped).jpg",
+        "photoMirroredFrom": "https://upload.wikimedia.org/wikipedia/commons/9/97/Xavier_Bertrand_-_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "photoMirroredAt": "2026-09-16"
       },
       "links": {
         "wikipediaURL": "https://fr.wikipedia.org/wiki/Xavier_Bertrand"
@@ -508,10 +532,12 @@
       "note": "Ajouté le 09/09/2026. Aucune position établie : exclu du calcul d'affinité jusqu'au lot E2.",
       "wikidataId": "Q291385",
       "media": {
-        "photoURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Delphine_Batho_%28cropped%29.png/960px-Delphine_Batho_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "photoURL": "https://pourquivoter.github.io/pourquivoter-content/v1/photos/batho.png",
         "photoAttribution": "Photo : DeuxSevres79 / Wikimedia Commons, CC BY-SA 4.0",
         "photoLicense": "CC BY-SA 4.0",
-        "photoSourcePage": "https://commons.wikimedia.org/wiki/File:Delphine_Batho_(cropped).png"
+        "photoSourcePage": "https://commons.wikimedia.org/wiki/File:Delphine_Batho_(cropped).png",
+        "photoMirroredFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Delphine_Batho_%28cropped%29.png/960px-Delphine_Batho_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "photoMirroredAt": "2026-09-16"
       },
       "links": {
         "officialWebsiteURL": "https://www.delphinebatho.fr",
@@ -535,10 +561,12 @@
       "note": "Recensé parmi les déclarés par LCP ; absent de la liste des candidats à la primaire relevée par Public Sénat. À clarifier.",
       "wikidataId": "Q98251165",
       "media": {
-        "photoURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Karim_Bouamrane_en_2026.jpg/960px-Karim_Bouamrane_en_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "photoURL": "https://pourquivoter.github.io/pourquivoter-content/v1/photos/bouamrane.jpg",
         "photoAttribution": "Photo : Oumma / Wikimedia Commons, CC BY 4.0",
         "photoLicense": "CC BY 4.0",
-        "photoSourcePage": "https://commons.wikimedia.org/wiki/File:Karim_Bouamrane_en_2026.jpg"
+        "photoSourcePage": "https://commons.wikimedia.org/wiki/File:Karim_Bouamrane_en_2026.jpg",
+        "photoMirroredFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Karim_Bouamrane_en_2026.jpg/960px-Karim_Bouamrane_en_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "photoMirroredAt": "2026-09-16"
       },
       "links": {
         "wikipediaURL": "https://fr.wikipedia.org/wiki/Karim_Bouamrane"
@@ -561,10 +589,12 @@
       "note": "Ajouté le 09/09/2026. Aucune position établie : exclu du calcul d'affinité jusqu'au lot E2.",
       "wikidataId": "Q439490",
       "media": {
-        "photoURL": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Nathalie_Arthaud_%28LO%29_19-05-2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "photoURL": "https://pourquivoter.github.io/pourquivoter-content/v1/photos/arthaud.jpg",
         "photoAttribution": "Photo : Kokluts / Wikimedia Commons, CC BY-SA 4.0",
         "photoLicense": "CC BY-SA 4.0",
-        "photoSourcePage": "https://commons.wikimedia.org/wiki/File:Nathalie_Arthaud_(LO)_19-05-2024.jpg"
+        "photoSourcePage": "https://commons.wikimedia.org/wiki/File:Nathalie_Arthaud_(LO)_19-05-2024.jpg",
+        "photoMirroredFrom": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Nathalie_Arthaud_%28LO%29_19-05-2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "photoMirroredAt": "2026-09-16"
       },
       "links": {
         "officialWebsiteURL": "http://www.nathalie-arthaud.info/",
@@ -588,10 +618,12 @@
       "note": "Ajouté le 09/09/2026. Aucune position établie : exclu du calcul d'affinité jusqu'au lot E2.",
       "wikidataId": "Q12961",
       "media": {
-        "photoURL": "https://upload.wikimedia.org/wikipedia/commons/1/13/Nicolas_Dupont-Aignan%2C_homme_politique_fran%C3%A7ais.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "photoURL": "https://pourquivoter.github.io/pourquivoter-content/v1/photos/dupontaignan.jpg",
         "photoAttribution": "Photo : Debout la France / Wikimedia Commons, CC BY-SA 4.0",
         "photoLicense": "CC BY-SA 4.0",
-        "photoSourcePage": "https://commons.wikimedia.org/wiki/File:Nicolas_Dupont-Aignan,_homme_politique_fran%C3%A7ais.jpg"
+        "photoSourcePage": "https://commons.wikimedia.org/wiki/File:Nicolas_Dupont-Aignan,_homme_politique_fran%C3%A7ais.jpg",
+        "photoMirroredFrom": "https://upload.wikimedia.org/wikipedia/commons/1/13/Nicolas_Dupont-Aignan%2C_homme_politique_fran%C3%A7ais.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "photoMirroredAt": "2026-09-16"
       },
       "links": {
         "officialWebsiteURL": "https://www.dupontaignan.fr/",
@@ -615,10 +647,12 @@
       "note": "Ajouté le 09/09/2026. Aucune position établie : exclu du calcul d'affinité jusqu'au lot E2.",
       "wikidataId": "Q3074223",
       "media": {
-        "photoURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Florian_Philippot.jpg/960px-Florian_Philippot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "photoURL": "https://pourquivoter.github.io/pourquivoter-content/v1/photos/philippot.jpg",
         "photoAttribution": "Photo : Films et documetnaires / Wikimedia Commons, CC BY 4.0",
         "photoLicense": "CC BY 4.0",
-        "photoSourcePage": "https://commons.wikimedia.org/wiki/File:Florian_Philippot.jpg"
+        "photoSourcePage": "https://commons.wikimedia.org/wiki/File:Florian_Philippot.jpg",
+        "photoMirroredFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Florian_Philippot.jpg/960px-Florian_Philippot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "photoMirroredAt": "2026-09-16"
       },
       "links": {
         "officialWebsiteURL": "https://florian-philippot.fr/",
@@ -642,10 +676,12 @@
       "note": "Ajouté le 09/09/2026. Aucune position établie : exclu du calcul d'affinité jusqu'au lot E2.",
       "wikidataId": "Q12972",
       "media": {
-        "photoURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Fran%C3%A7ois_ASSELINEAU.jpg/960px-Fran%C3%A7ois_ASSELINEAU.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "photoURL": "https://pourquivoter.github.io/pourquivoter-content/v1/photos/asselineau.jpg",
         "photoAttribution": "Photo : Union Populaire Républicaine / Wikimedia Commons, CC BY-SA 4.0",
         "photoLicense": "CC BY-SA 4.0",
-        "photoSourcePage": "https://commons.wikimedia.org/wiki/File:Fran%C3%A7ois_ASSELINEAU.jpg"
+        "photoSourcePage": "https://commons.wikimedia.org/wiki/File:Fran%C3%A7ois_ASSELINEAU.jpg",
+        "photoMirroredFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Fran%C3%A7ois_ASSELINEAU.jpg/960px-Fran%C3%A7ois_ASSELINEAU.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "photoMirroredAt": "2026-09-16"
       },
       "links": {
         "officialWebsiteURL": "http://www.francoisasselineau.fr/",

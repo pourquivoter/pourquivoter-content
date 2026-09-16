@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 2,
+  "axes": [
+    {
+      "id": "economie",
+      "name": "Économie",
+      "icon": "eurosign.circle.fill",
+      "colorHex": "#F59E0B",
+      "poleMinus": "Plus de redistribution et d'intervention de l'État",
+      "polePlus": "Plus de liberté économique et moins d'impôts"
+    },
+    {
+      "id": "social",
+      "name": "Social & services publics",
+      "icon": "heart.circle.fill",
+      "colorHex": "#EC4899",
+      "poleMinus": "Renforcer les protections et services publics",
+      "polePlus": "Réduire les dépenses, responsabiliser"
+    },
+    {
+      "id": "immigration",
+      "name": "Immigration",
+      "icon": "globe.europe.africa.fill",
+      "colorHex": "#8B5CF6",
+      "poleMinus": "Faciliter l'accueil et l'intégration",
+      "polePlus": "Restreindre fortement l'immigration"
+    },
+    {
+      "id": "securite",
+      "name": "Sécurité & justice",
+      "icon": "shield.fill",
+      "colorHex": "#3B82F6",
+      "poleMinus": "Priorité à la prévention et aux libertés",
+      "polePlus": "Priorité à la fermeté et à l'ordre"
+    },
+    {
+      "id": "ecologie",
+      "name": "Écologie",
+      "icon": "leaf.fill",
+      "colorHex": "#22C55E",
+      "poleMinus": "Transition écologique prioritaire, même contraignante",
+      "polePlus": "Ne pas contraindre l'économie au nom du climat"
+    },
+    {
+      "id": "europe",
+      "name": "Europe & international",
+      "icon": "star.circle.fill",
+      "colorHex": "#0EA5E9",
+      "poleMinus": "Plus d'intégration européenne",
+      "polePlus": "Plus de souveraineté nationale"
+    },
+    {
+      "id": "institutions",
+      "name": "Institutions & démocratie",
+      "icon": "building.columns.fill",
+      "colorHex": "#64748B",
+      "poleMinus": "Plus de démocratie directe, changer les institutions",
+      "polePlus": "Préserver les institutions actuelles"
+    },
+    {
+      "id": "societe",
+      "name": "Société & modes de vie",
+      "icon": "person.2.fill",
+      "colorHex": "#F97316",
+      "poleMinus": "Société progressiste, nouveaux droits",
+      "polePlus": "Société attachée aux valeurs traditionnelles"
+    }
+  ],
+  "themeExplainers": [
+    {
+      "axisId": "economie",
+      "title": "L'économie en 30 secondes",
+      "summary": "Le débat oppose ceux qui veulent que l'État redistribue davantage (impôts plus progressifs, hausse des salaires par la loi) à ceux qui veulent baisser impôts et charges pour libérer l'activité. Entre les deux : le sérieux budgétaire, avec une dette publique au cœur de la campagne 2027.",
+      "keyQuestions": [
+        "Faut-il taxer davantage les plus riches ?",
+        "Faut-il repousser ou revenir sur l'âge de la retraite ?",
+        "Comment réduire la dette publique ?"
+      ],
+      "candidatePositions": []
+    },
+    {
+      "axisId": "social",
+      "title": "Le social en 30 secondes",
+      "summary": "Ce thème porte sur ce que la collectivité prend en charge : santé, école, retraites, aides sociales. D'un côté, ceux qui estiment que les services publics se sont dégradés et qu'il faut y remettre des moyens, quitte à dépenser davantage. De l'autre, ceux qui jugent le niveau de dépense difficile à tenir et veulent mieux cibler les aides, souvent en les liant à une activité ou à une recherche d'emploi. Le désaccord porte autant sur le montant que sur les conditions d'accès.",
+      "keyQuestions": [
+        "Faut-il plus de moyens pour l'hôpital et l'école, et à quel prix ?",
+        "Les aides sociales doivent-elles être conditionnées ?",
+        "Jusqu'où augmenter les salaires par la loi ?"
+      ],
+      "candidatePositions": []
+    },
+    {
+      "axisId": "immigration",
+      "title": "L'immigration en 30 secondes",
+      "summary": "C'est le thème où les mots comptent le plus. Le débat porte sur le nombre de personnes accueillies, sur les conditions d'entrée et de séjour, et sur ce qu'on attend de l'intégration. D'un côté, ceux qui voient l'immigration comme un apport et veulent faciliter l'accueil, la régularisation et l'accès aux droits. De l'autre, ceux qui estiment les capacités d'accueil dépassées et veulent réduire les entrées, y compris légales, et durcir les conditions de séjour. S'y ajoute une question distincte : certaines aides doivent-elles dépendre de la nationalité ?",
+      "keyQuestions": [
+        "Faut-il réduire, maintenir ou augmenter le nombre d'entrées ?",
+        "Que faire des personnes déjà présentes sans titre de séjour ?",
+        "Les aides sociales doivent-elles dépendre de la nationalité ?"
+      ],
+      "candidatePositions": []
+    },
+    {
+      "axisId": "securite",
+      "title": "La sécurité en 30 secondes",
+      "summary": "Le désaccord ne porte pas sur l'objectif — personne ne défend l'insécurité — mais sur les moyens d'y parvenir. Certains misent sur la fermeté : peines plus lourdes et effectivement appliquées, davantage de policiers, plus de surveillance. D'autres estiment que la réponse pénale seule ne suffit pas et privilégient la prévention, l'éducation et la réinsertion. En arrière-plan, une question d'équilibre : jusqu'où accepter de restreindre les libertés au nom de la sécurité ?",
+      "keyQuestions": [
+        "Faut-il des peines planchers ?",
+        "Prévention ou sanction : où mettre l'argent public ?",
+        "Jusqu'où étendre la surveillance ?"
+      ],
+      "candidatePositions": []
+    },
+    {
+      "axisId": "ecologie",
+      "title": "L'écologie en 30 secondes",
+      "summary": "Tout le monde dit vouloir agir pour le climat ; la vraie différence est le rythme et la méthode : normes contraignantes et planification pour les uns, incitations et innovation (dont le nucléaire) pour les autres, voire pause réglementaire.",
+      "keyQuestions": [
+        "Faut-il interdire ou inciter ?",
+        "Quelle place pour le nucléaire ?",
+        "Qui paie la transition ?"
+      ],
+      "candidatePositions": []
+    },
+    {
+      "axisId": "europe",
+      "title": "L'Europe en 30 secondes",
+      "summary": "La question n'est plus tellement d'être pour ou contre l'Union européenne, mais de savoir ce qui se décide à Bruxelles et ce qui reste à Paris. Les uns veulent aller plus loin ensemble — défense commune, budget, fiscalité — en jugeant qu'aucun pays européen ne pèse seul face aux grandes puissances. Les autres veulent reprendre la main sur des domaines clés, et contestent la primauté du droit européen sur le droit national ou les règles budgétaires communes.",
+      "keyQuestions": [
+        "Faut-il transférer plus de compétences à l'Union ?",
+        "Le droit français doit-il primer sur le droit européen ?",
+        "Faut-il respecter les règles budgétaires communes ?"
+      ],
+      "candidatePositions": []
+    },
+    {
+      "axisId": "institutions",
+      "title": "Les institutions en 30 secondes",
+      "summary": "La Ve République concentre beaucoup de pouvoir chez le président. Certains veulent changer cela : référendum d'initiative citoyenne, scrutin proportionnel, pouvoirs présidentiels réduits, voire une nouvelle République. D'autres jugent que ces institutions assurent la stabilité, et qu'une Assemblée trop fragmentée empêcherait de gouverner. Derrière ce débat, une question devenue concrète : que faire quand aucune majorité claire ne se dégage ?",
+      "keyQuestions": [
+        "Les citoyens doivent-ils pouvoir déclencher des référendums ?",
+        "Faut-il de la proportionnelle aux législatives ?",
+        "Faut-il réduire les pouvoirs du président ?"
+      ],
+      "candidatePositions": []
+    },
+    {
+      "axisId": "societe",
+      "title": "La société en 30 secondes",
+      "summary": "Ce thème touche à la vie privée, à la famille, à l'école et aux libertés individuelles. D'un côté, ceux qui veulent étendre les droits — fin de vie, droits des minorités, lutte contre les discriminations — et considèrent que la loi doit accompagner l'évolution des mœurs. De l'autre, ceux qui estiment que certains changements vont trop vite ou trop loin, et défendent la transmission, l'autorité et des repères communs. C'est souvent sur ce thème que les clivages traversent les partis.",
+      "keyQuestions": [
+        "Faut-il légaliser l'aide active à mourir ?",
+        "Quel rôle pour l'État dans les droits des minorités ?",
+        "Quelle place pour l'autorité à l'école ?"
+      ],
+      "candidatePositions": []
+    }
+  ],
+  "_editorialNote": "themeExplainers : les 8 décryptages sont rédigés (E1, 15/09/2026). Ils décrivent le DÉBAT, jamais la position d'un candidat : aucune source n'est donc requise, mais chaque résumé doit être relu ligne à ligne par le chef de projet avant tout lancement public — c'est du contenu politique affiché dans l'app. Règle de rédaction : les deux camps décrits dans leurs propres termes, longueur équivalente, aucun chiffre ni statistique (qui exigerait une source). candidatePositions reste VIDE partout : 3 propositions par candidat et par thème, chacune sourcée par une URL primaire, à produire avec le lot E2. Ne jamais publier un résumé de programme sans source."
+}

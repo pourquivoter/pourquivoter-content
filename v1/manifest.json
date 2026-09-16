@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 2,
+  "contentVersion": 5,
+  "minAppVersion": "1.0.0",
+  "updatedAt": "2026-09-16",
+  "files": {
+    "questions": "questions.json",
+    "candidates": "candidates.json",
+    "themes": "themes.json"
+  },
+  "flags": {
+    "adsEnabled": false,
+    "duelMode": false,
+    "electionSilence": false
+  },
+  "banner": "Positions provisoires : les programmes 2027 ne sont pas encore publiés. Voir Méthodologie.",
+  "electionDates": {
+    "round1": "2027-04-11",
+    "round2": "2027-04-25",
+    "note": "Dates provisoires — à confirmer par décret de convocation."
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "schemaVersion": 2,
+  "answerScale": {
+    "min": -2,
+    "max": 2,
+    "labels": {
+      "-2": "Tout à fait contre",
+      "-1": "Plutôt contre",
+      "0": "Sans avis / passer",
+      "1": "Plutôt d'accord",
+      "2": "Tout à fait d'accord"
+    }
+  },
+  "questions": [
+    {
+      "id": "q01",
+      "axisId": "economie",
+      "direction": -1,
+      "weight": 2,
+      "text": "Il faut taxer davantage les plus hauts patrimoines pour financer les services publics.",
+      "inAppClip": true
+    },
+    {
+      "id": "q02",
+      "axisId": "economie",
+      "direction": 1,
+      "weight": 1,
+      "text": "Il faut baisser les impôts des entreprises pour favoriser l'emploi."
+    },
+    {
+      "id": "q03",
+      "axisId": "economie",
+      "direction": -1,
+      "weight": 1,
+      "text": "L'âge légal de départ à la retraite doit être ramené avant 64 ans.",
+      "inAppClip": true
+    },
+    {
+      "id": "q04",
+      "axisId": "social",
+      "direction": -1,
+      "weight": 2,
+      "text": "Il faut embaucher massivement dans les hôpitaux publics, quitte à augmenter les dépenses.",
+      "inAppClip": true
+    },
+    {
+      "id": "q05",
+      "axisId": "social",
+      "direction": 1,
+      "weight": 1,
+      "text": "Il faut conditionner davantage les aides sociales à une activité ou une recherche d'emploi."
+    },
+    {
+      "id": "q06",
+      "axisId": "social",
+      "direction": -1,
+      "weight": 1,
+      "text": "Le SMIC doit être augmenté significativement par la loi."
+    },
+    {
+      "id": "q07",
+      "axisId": "immigration",
+      "direction": 1,
+      "weight": 2,
+      "text": "La France doit réduire fortement l'immigration, y compris légale.",
+      "inAppClip": true
+    },
+    {
+      "id": "q08",
+      "axisId": "immigration",
+      "direction": -1,
+      "weight": 1,
+      "text": "Il faut régulariser les travailleurs sans papiers présents dans les secteurs en tension."
+    },
+    {
+      "id": "q09",
+      "axisId": "immigration",
+      "direction": 1,
+      "weight": 1,
+      "text": "Les aides sociales devraient être réservées en priorité aux citoyens français."
+    },
+    {
+      "id": "q10",
+      "axisId": "securite",
+      "direction": 1,
+      "weight": 2,
+      "text": "La justice est trop laxiste : il faut des peines plancher et leur exécution systématique.",
+      "inAppClip": true
+    },
+    {
+      "id": "q11",
+      "axisId": "securite",
+      "direction": -1,
+      "weight": 1,
+      "text": "Il faut investir davantage dans la prévention et l'éducation que dans la répression."
+    },
+    {
+      "id": "q12",
+      "axisId": "securite",
+      "direction": 1,
+      "weight": 1,
+      "text": "Il faut étendre la vidéosurveillance et les moyens de surveillance numérique de la police."
+    },
+    {
+      "id": "q13",
+      "axisId": "ecologie",
+      "direction": -1,
+      "weight": 2,
+      "text": "Le climat justifie des mesures contraignantes, même impopulaires (interdictions, quotas, taxes).",
+      "inAppClip": true
+    },
+    {
+      "id": "q14",
+      "axisId": "ecologie",
+      "direction": 1,
+      "weight": 1,
+      "text": "On ne doit pas imposer de nouvelles normes écologiques qui pénalisent le pouvoir d'achat."
+    },
+    {
+      "id": "q15",
+      "axisId": "ecologie",
+      "direction": -1,
+      "weight": 1,
+      "text": "Il faut sortir progressivement des énergies fossiles d'ici 2040, quoi qu'il en coûte."
+    },
+    {
+      "id": "q16",
+      "axisId": "europe",
+      "direction": -1,
+      "weight": 2,
+      "text": "La France doit transférer plus de compétences à l'Union européenne (défense, budget, fiscalité).",
+      "inAppClip": true
+    },
+    {
+      "id": "q17",
+      "axisId": "europe",
+      "direction": 1,
+      "weight": 1,
+      "text": "Le droit français doit primer sur le droit européen quand ils sont en conflit."
+    },
+    {
+      "id": "q18",
+      "axisId": "europe",
+      "direction": 1,
+      "weight": 1,
+      "text": "Il faut désobéir aux règles budgétaires européennes si elles bloquent nos priorités nationales."
+    },
+    {
+      "id": "q19",
+      "axisId": "institutions",
+      "direction": -1,
+      "weight": 2,
+      "text": "Les citoyens doivent pouvoir déclencher des référendums d'initiative citoyenne (RIC).",
+      "inAppClip": true
+    },
+    {
+      "id": "q20",
+      "axisId": "institutions",
+      "direction": -1,
+      "weight": 1,
+      "text": "Il faut passer à une 6e République avec un président aux pouvoirs réduits."
+    },
+    {
+      "id": "q21",
+      "axisId": "institutions",
+      "direction": 1,
+      "weight": 1,
+      "text": "Introduire une forte dose de proportionnelle rendrait le pays ingouvernable."
+    },
+    {
+      "id": "q22",
+      "axisId": "societe",
+      "direction": -1,
+      "weight": 2,
+      "text": "L'État doit activement protéger et étendre les droits des minorités (LGBT+, lutte contre les discriminations).",
+      "inAppClip": true
+    },
+    {
+      "id": "q23",
+      "axisId": "societe",
+      "direction": 1,
+      "weight": 1,
+      "text": "L'école doit revenir aux fondamentaux : autorité, uniforme, transmission plutôt que pédagogies nouvelles."
+    },
+    {
+      "id": "q24",
+      "axisId": "societe",
+      "direction": -1,
+      "weight": 1,
+      "text": "Il faut légaliser l'aide active à mourir pour les malades incurables qui la demandent.",
+      "inAppClip": true
+    },
+    {
+      "id": "q25",
+      "axisId": "economie",
+      "direction": 1,
+      "weight": 1,
+      "text": "Réduire la dette publique doit passer d'abord par la baisse des dépenses de l'État."
+    }
+  ],
+  "_editorialNote": "25 questions v1 — formulations à faire relire (neutralité, clarté, pas de double négation). L'app mélange l'ordre à chaque session. Répartition : 4 économie, 3 par autre axe."
+}

@@ -1,0 +1,656 @@
+{
+  "schemaVersion": 2,
+  "_editorialNote": "POSITIONS : les valeurs d'axes des 12 candidats notés sont des ESTIMATIONS ÉDITORIALES posées le 10/07/2026, non sourcées (confidence: low). Elles doivent être validées au lot E2 (2+ sources par axe) avant tout lancement public. CANDIDATS NON NOTÉS : les candidats ajoutés le 09/09/2026 ont matchingReady: false et axes vides — ils figurent dans le contenu mais sont EXCLUS du calcul d'affinité, plutôt qu'affichés à 0 %. STATUTS : vérifiés le 09/09/2026 sur LCP (6 sept.) et Touteleurope (8 sept.). Chaque statut porte sa source. toVerify: true = point signalé à un humain avant publication.",
+  "_pendingNominationNote": "PRIMAIRE PS / PLACE PUBLIQUE / GRS, octobre 2026 : Raphaël Glucksmann, Olivier Faure, Ségolène Royal, Philippe Brun et Jérôme Guedj y concourent. Seul Glucksmann figure dans ce fichier, pour des raisons historiques — c'est un DÉSÉQUILIBRE DE VISIBILITÉ à trancher par le chef de projet : soit on inscrit tous les concurrents de la primaire, soit aucun jusqu'au résultat. À revoir impérativement après le scrutin.",
+  "_mediaNote": "Photos : uniquement des images sous licence libre (Wikimedia Commons) avec attribution affichée dans l'app, ou photos officielles avec autorisation écrite. Jamais de photo de presse sans droits.",
+  "candidates": [
+    {
+      "id": "lepen",
+      "displayName": "Marine Le Pen",
+      "party": "Rassemblement National",
+      "status": "declared",
+      "colorHex": "#0D2C54",
+      "avatar": "avatar_lepen",
+      "axes": {
+        "economie": -0.2,
+        "social": -0.1,
+        "immigration": 0.9,
+        "securite": 0.8,
+        "ecologie": 0.6,
+        "europe": 0.8,
+        "institutions": -0.3,
+        "societe": 0.6
+      },
+      "confidence": "low",
+      "keyProposals": [
+        {
+          "axisId": "immigration",
+          "text": "Priorité nationale et réduction drastique de l'immigration",
+          "sourceURL": null,
+          "toValidate": true
+        }
+      ],
+      "wikidataId": "Q12927",
+      "media": {
+        "photoURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/%D0%9C%D0%B0%D1%80%D0%B8%D0%BD_%D0%9B%D0%B5_%D0%9F%D0%B5%D0%BD_%2828-01-2022%29.jpg/960px-%D0%9C%D0%B0%D1%80%D0%B8%D0%BD_%D0%9B%D0%B5_%D0%9F%D0%B5%D0%BD_%2828-01-2022%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "photoAttribution": "Photo : VOX España / Wikimedia Commons, Public domain",
+        "photoLicense": "Public domain",
+        "photoSourcePage": "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B0%D1%80%D0%B8%D0%BD_%D0%9B%D0%B5_%D0%9F%D0%B5%D0%BD_(28-01-2022).jpg"
+      },
+      "links": {
+        "officialProgramURL": null,
+        "wikipediaURL": "https://fr.wikipedia.org/wiki/Marine_Le_Pen",
+        "officialWebsiteURL": "https://mlafrance.fr"
+      },
+      "matchingReady": true,
+      "programStatus": "notPublished",
+      "lastReviewedAt": "2026-07-10",
+      "statusVerifiedAt": "2026-09-09",
+      "statusSource": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-deja-declares/",
+      "note": "Candidature annoncée le 7 juillet 2026. Sous réserve de la procédure d'appel sur l'inéligibilité — à revérifier avant toute publication.",
+      "toVerify": true
+    },
+    {
+      "id": "bardella",
+      "displayName": "Jordan Bardella",
+      "party": "Rassemblement National",
+      "status": "expected",
+      "colorHex": "#0D2C54",
+      "avatar": "avatar_bardella",
+      "axes": {
+        "economie": 0.0,
+        "social": 0.0,
+        "immigration": 0.9,
+        "securite": 0.8,
+        "ecologie": 0.6,
+        "europe": 0.8,
+        "institutions": -0.2,
+        "societe": 0.6
+      },
+      "confidence": "low",
+      "keyProposals": [],
+      "note": "Candidature conditionnée à l'issue de l'appel de Marine Le Pen. Ne pas figer sans source à jour.",
+      "wikidataId": "Q40655898",
+      "media": {
+        "photoURL": null,
+        "photoAttribution": null,
+        "photoLicense": null,
+        "photoSourcePage": null
+      },
+      "links": {
+        "officialProgramURL": null,
+        "wikipediaURL": "https://fr.wikipedia.org/wiki/Jordan_Bardella",
+        "officialWebsiteURL": "https://www.jordan-bardella.fr/"
+      },
+      "matchingReady": true,
+      "programStatus": "notPublished",
+      "lastReviewedAt": "2026-07-10",
+      "statusVerifiedAt": "2026-09-09",
+      "statusSource": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+      "toVerify": true
+    },
+    {
+      "id": "zemmour",
+      "displayName": "Éric Zemmour",
+      "party": "Reconquête",
+      "status": "declared",
+      "colorHex": "#7C2D12",
+      "avatar": "avatar_zemmour",
+      "axes": {
+        "economie": 0.6,
+        "social": 0.4,
+        "immigration": 1.0,
+        "securite": 0.9,
+        "ecologie": 0.7,
+        "europe": 0.9,
+        "institutions": 0.2,
+        "societe": 0.9
+      },
+      "confidence": "low",
+      "keyProposals": [],
+      "wikidataId": "Q288477",
+      "media": {
+        "photoURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Portrait_d%27%C3%89ric_Zemmour%2C_avril_2022.jpg/960px-Portrait_d%27%C3%89ric_Zemmour%2C_avril_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "photoAttribution": "Photo : Anh De France / Wikimedia Commons, CC0",
+        "photoLicense": "CC0",
+        "photoSourcePage": "https://commons.wikimedia.org/wiki/File:Portrait_d%27%C3%89ric_Zemmour,_avril_2022.jpg"
+      },
+      "links": {
+        "officialProgramURL": null,
+        "wikipediaURL": "https://fr.wikipedia.org/wiki/Éric_Zemmour",
+        "officialWebsiteURL": "https://www.ericzemmour.fr/"
+      },
+      "matchingReady": true,
+      "programStatus": "notPublished",
+      "lastReviewedAt": "2026-07-10",
+      "statusVerifiedAt": "2026-09-09",
+      "statusSource": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+      "note": "Statut corrigé le 09/09/2026 : déclaré, et non pressenti."
+    },
+    {
+      "id": "retailleau",
+      "displayName": "Bruno Retailleau",
+      "party": "Les Républicains",
+      "status": "declared",
+      "colorHex": "#1D4ED8",
+      "avatar": "avatar_retailleau",
+      "axes": {
+        "economie": 0.7,
+        "social": 0.5,
+        "immigration": 0.8,
+        "securite": 0.8,
+        "ecologie": 0.5,
+        "europe": 0.2,
+        "institutions": 0.4,
+        "societe": 0.7
+      },
+      "confidence": "low",
+      "keyProposals": [],
+      "wikidataId": "Q2926942",
+      "media": {
+        "photoURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Bruno_Retailleau_-_Ministre_de_l%27Int%C3%A9rieur_fran%C3%A7ais_%28cropped%29.jpg/960px-Bruno_Retailleau_-_Ministre_de_l%27Int%C3%A9rieur_fran%C3%A7ais_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "photoAttribution": "Photo : Anthonymontardyfr / Wikimedia Commons, CC BY 4.0",
+        "photoLicense": "CC BY 4.0",
+        "photoSourcePage": "https://commons.wikimedia.org/wiki/File:Bruno_Retailleau_-_Ministre_de_l%27Int%C3%A9rieur_fran%C3%A7ais_(cropped).jpg"
+      },
+      "links": {
+        "officialProgramURL": null,
+        "wikipediaURL": "https://fr.wikipedia.org/wiki/Bruno_Retailleau",
+        "officialWebsiteURL": "http://brunoretailleau.fr/"
+      },
+      "matchingReady": true,
+      "programStatus": "notPublished",
+      "lastReviewedAt": "2026-07-10",
+      "statusVerifiedAt": "2026-09-09",
+      "statusSource": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-deja-declares/",
+      "note": "Désigné par les adhérents LR."
+    },
+    {
+      "id": "philippe",
+      "displayName": "Édouard Philippe",
+      "party": "Horizons",
+      "status": "declared",
+      "colorHex": "#0369A1",
+      "avatar": "avatar_philippe",
+      "axes": {
+        "economie": 0.6,
+        "social": 0.4,
+        "immigration": 0.3,
+        "securite": 0.4,
+        "ecologie": 0.2,
+        "europe": -0.6,
+        "institutions": 0.5,
+        "societe": -0.2
+      },
+      "confidence": "low",
+      "keyProposals": [],
+      "wikidataId": "Q3579995",
+      "media": {
+        "photoURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/%C3%89douard_Philippe_2019_%28cropped%29.jpg/960px-%C3%89douard_Philippe_2019_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "photoAttribution": "Photo : Jacques Paquier / Wikimedia Commons, CC BY 2.0",
+        "photoLicense": "CC BY 2.0",
+        "photoSourcePage": "https://commons.wikimedia.org/wiki/File:%C3%89douard_Philippe_2019_(cropped).jpg"
+      },
+      "links": {
+        "officialProgramURL": null,
+        "wikipediaURL": "https://fr.wikipedia.org/wiki/Édouard_Philippe"
+      },
+      "matchingReady": true,
+      "programStatus": "notPublished",
+      "lastReviewedAt": "2026-07-10",
+      "statusVerifiedAt": "2026-09-09",
+      "statusSource": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-deja-declares/"
+    },
+    {
+      "id": "lisnard",
+      "displayName": "David Lisnard",
+      "party": "Nouvelle Énergie",
+      "status": "declared",
+      "colorHex": "#0E7490",
+      "avatar": "avatar_lisnard",
+      "axes": {
+        "economie": 0.8,
+        "social": 0.6,
+        "immigration": 0.6,
+        "securite": 0.6,
+        "ecologie": 0.3,
+        "europe": 0.0,
+        "institutions": -0.1,
+        "societe": 0.4
+      },
+      "confidence": "low",
+      "keyProposals": [],
+      "wikidataId": "Q3018298",
+      "media": {
+        "photoURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/David_Lisnard_-_2013.jpg/960px-David_Lisnard_-_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "photoAttribution": "Photo : Frantogian / Wikimedia Commons, CC BY-SA 3.0",
+        "photoLicense": "CC BY-SA 3.0",
+        "photoSourcePage": "https://commons.wikimedia.org/wiki/File:David_Lisnard_-_2013.jpg"
+      },
+      "links": {
+        "officialProgramURL": null,
+        "wikipediaURL": "https://fr.wikipedia.org/wiki/David_Lisnard",
+        "officialWebsiteURL": "http://www.davidlisnard.fr"
+      },
+      "matchingReady": true,
+      "programStatus": "notPublished",
+      "lastReviewedAt": "2026-07-10",
+      "statusVerifiedAt": "2026-09-09",
+      "statusSource": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-deja-declares/",
+      "note": "Candidature dissidente à droite."
+    },
+    {
+      "id": "attal",
+      "displayName": "Gabriel Attal",
+      "party": "Renaissance",
+      "status": "declared",
+      "colorHex": "#7E22CE",
+      "avatar": "avatar_attal",
+      "axes": {
+        "economie": 0.4,
+        "social": 0.2,
+        "immigration": 0.2,
+        "securite": 0.3,
+        "ecologie": -0.1,
+        "europe": -0.7,
+        "institutions": 0.3,
+        "societe": -0.5
+      },
+      "confidence": "low",
+      "keyProposals": [],
+      "wikidataId": "Q30339350",
+      "media": {
+        "photoURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Gabriel_Attal_2025_%28close_crop%29.jpg/960px-Gabriel_Attal_2025_%28close_crop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "photoAttribution": "Photo : Ismail Aissoub / Wikimedia Commons, CC BY 4.0",
+        "photoLicense": "CC BY 4.0",
+        "photoSourcePage": "https://commons.wikimedia.org/wiki/File:Gabriel_Attal_2025_(close_crop).jpg"
+      },
+      "links": {
+        "officialProgramURL": null,
+        "wikipediaURL": "https://fr.wikipedia.org/wiki/Gabriel_Attal"
+      },
+      "matchingReady": true,
+      "programStatus": "notPublished",
+      "lastReviewedAt": "2026-07-10",
+      "statusVerifiedAt": "2026-09-09",
+      "statusSource": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-deja-declares/"
+    },
+    {
+      "id": "glucksmann",
+      "displayName": "Raphaël Glucksmann",
+      "party": "Place Publique",
+      "status": "expected",
+      "colorHex": "#BE185D",
+      "avatar": "avatar_glucksmann",
+      "axes": {
+        "economie": -0.5,
+        "social": -0.6,
+        "immigration": -0.2,
+        "securite": -0.1,
+        "ecologie": -0.7,
+        "europe": -0.8,
+        "institutions": -0.3,
+        "societe": -0.7
+      },
+      "confidence": "low",
+      "keyProposals": [],
+      "wikidataId": "Q556149",
+      "media": {
+        "photoURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/2024-03-03_-_Congr%C3%A8s_du_PSE-_105_-_Raphael_Glucksmann.jpg/960px-2024-03-03_-_Congr%C3%A8s_du_PSE-_105_-_Raphael_Glucksmann.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "photoAttribution": "Photo : Mathieu Delmestre / Wikimedia Commons, Public domain",
+        "photoLicense": "Public domain",
+        "photoSourcePage": "https://commons.wikimedia.org/wiki/File:2024-03-03_-_Congr%C3%A8s_du_PSE-_105_-_Raphael_Glucksmann.jpg"
+      },
+      "links": {
+        "officialProgramURL": null,
+        "wikipediaURL": "https://fr.wikipedia.org/wiki/Raphaël_Glucksmann"
+      },
+      "matchingReady": true,
+      "programStatus": "notPublished",
+      "lastReviewedAt": "2026-07-10",
+      "statusVerifiedAt": "2026-09-09",
+      "statusSource": "https://www.publicsenat.fr/actualites/politique/primaire-socialiste-des-jeux-plus-ouverts-que-prevu",
+      "note": "Candidat à la primaire organisée par le PS, Place publique et la GRS en octobre 2026. Sa candidature à la présidentielle dépend du résultat. Dates exactes des deux tours divergentes selon les sources — à vérifier.",
+      "toVerify": true
+    },
+    {
+      "id": "tondelier",
+      "displayName": "Marine Tondelier",
+      "party": "Les Écologistes",
+      "status": "declared",
+      "colorHex": "#15803D",
+      "avatar": "avatar_tondelier",
+      "axes": {
+        "economie": -0.7,
+        "social": -0.8,
+        "immigration": -0.5,
+        "securite": -0.5,
+        "ecologie": -1.0,
+        "europe": -0.5,
+        "institutions": -0.6,
+        "societe": -0.9
+      },
+      "confidence": "low",
+      "keyProposals": [],
+      "wikidataId": "Q29917987",
+      "media": {
+        "photoURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Huma2023MarineTondelier.jpg/960px-Huma2023MarineTondelier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "photoAttribution": "Photo : Selbymay / Wikimedia Commons, CC BY 4.0",
+        "photoLicense": "CC BY 4.0",
+        "photoSourcePage": "https://commons.wikimedia.org/wiki/File:Huma2023MarineTondelier.jpg"
+      },
+      "links": {
+        "officialProgramURL": null,
+        "wikipediaURL": "https://fr.wikipedia.org/wiki/Marine_Tondelier",
+        "officialWebsiteURL": "https://marinetondelier.wordpress.com"
+      },
+      "matchingReady": true,
+      "programStatus": "notPublished",
+      "lastReviewedAt": "2026-07-10",
+      "statusVerifiedAt": "2026-09-09",
+      "statusSource": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-deja-declares/"
+    },
+    {
+      "id": "ruffin",
+      "displayName": "François Ruffin",
+      "party": "Debout ! / Front populaire",
+      "status": "expected",
+      "colorHex": "#B91C1C",
+      "avatar": "avatar_ruffin",
+      "axes": {
+        "economie": -0.8,
+        "social": -0.9,
+        "immigration": -0.3,
+        "securite": -0.3,
+        "ecologie": -0.7,
+        "europe": 0.1,
+        "institutions": -0.7,
+        "societe": -0.6
+      },
+      "confidence": "low",
+      "keyProposals": [],
+      "wikidataId": "Q3085763",
+      "media": {
+        "photoURL": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Fran%C3%A7ois_Ruffin_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "photoAttribution": "Photo : Thinkerview / Wikimedia Commons, CC BY-SA 4.0",
+        "photoLicense": "CC BY-SA 4.0",
+        "photoSourcePage": "https://commons.wikimedia.org/wiki/File:Fran%C3%A7ois_Ruffin_(cropped).jpg"
+      },
+      "links": {
+        "officialProgramURL": null,
+        "wikipediaURL": "https://fr.wikipedia.org/wiki/François_Ruffin",
+        "officialWebsiteURL": "http://www.francoisruffin.fr/"
+      },
+      "matchingReady": true,
+      "programStatus": "notPublished",
+      "lastReviewedAt": "2026-07-10",
+      "statusVerifiedAt": "2026-09-09",
+      "statusSource": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+      "note": "Absent des listes de candidats déclarés consultées le 09/09/2026 (LCP, Touteleurope). Statut abaissé de declared à expected par prudence — à confirmer avant publication.",
+      "toVerify": true
+    },
+    {
+      "id": "melenchon",
+      "displayName": "Jean-Luc Mélenchon",
+      "party": "La France insoumise",
+      "status": "declared",
+      "colorHex": "#DC2626",
+      "avatar": "avatar_melenchon",
+      "axes": {
+        "economie": -0.9,
+        "social": -0.9,
+        "immigration": -0.6,
+        "securite": -0.7,
+        "ecologie": -0.8,
+        "europe": 0.4,
+        "institutions": -0.9,
+        "societe": -0.8
+      },
+      "confidence": "low",
+      "keyProposals": [],
+      "wikidataId": "Q5829",
+      "media": {
+        "photoURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/M%C3%A9lenchon_2027_-_55262255527_%28cropped_3-4%29.png/960px-M%C3%A9lenchon_2027_-_55262255527_%28cropped_3-4%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "photoAttribution": "Photo : jlm2017.fr / Wikimedia Commons, CC BY 4.0",
+        "photoLicense": "CC BY 4.0",
+        "photoSourcePage": "https://commons.wikimedia.org/wiki/File:M%C3%A9lenchon_2027_-_55262255527_(cropped_3-4).png"
+      },
+      "links": {
+        "officialProgramURL": null,
+        "wikipediaURL": "https://fr.wikipedia.org/wiki/Jean-Luc_Mélenchon",
+        "officialWebsiteURL": "https://melenchon.fr/"
+      },
+      "matchingReady": true,
+      "programStatus": "notPublished",
+      "lastReviewedAt": "2026-07-10",
+      "statusVerifiedAt": "2026-09-09",
+      "statusSource": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-deja-declares/",
+      "note": "Quatrième candidature présidentielle."
+    },
+    {
+      "id": "roussel",
+      "displayName": "Fabien Roussel",
+      "party": "Parti communiste français",
+      "status": "declared",
+      "colorHex": "#991B1B",
+      "avatar": "avatar_roussel",
+      "axes": {
+        "economie": -0.8,
+        "social": -0.8,
+        "immigration": -0.1,
+        "securite": 0.1,
+        "ecologie": -0.4,
+        "europe": 0.2,
+        "institutions": -0.5,
+        "societe": -0.3
+      },
+      "confidence": "low",
+      "keyProposals": [],
+      "wikidataId": "Q30388733",
+      "media": {
+        "photoURL": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Roussel_Fabien_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "photoAttribution": "Photo : Zouhair NAKARA / Wikimedia Commons, CC BY-SA 4.0",
+        "photoLicense": "CC BY-SA 4.0",
+        "photoSourcePage": "https://commons.wikimedia.org/wiki/File:Roussel_Fabien_1.jpg"
+      },
+      "links": {
+        "officialProgramURL": null,
+        "wikipediaURL": "https://fr.wikipedia.org/wiki/Fabien_Roussel",
+        "officialWebsiteURL": "https://www.rousselfabien.com/"
+      },
+      "matchingReady": true,
+      "programStatus": "notPublished",
+      "lastReviewedAt": "2026-07-10",
+      "statusVerifiedAt": "2026-09-09",
+      "statusSource": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+      "note": "Statut corrigé le 09/09/2026 : déclaré, et non pressenti."
+    },
+    {
+      "id": "bertrand",
+      "displayName": "Xavier Bertrand",
+      "party": "Nous France",
+      "status": "declared",
+      "colorHex": "#4A6FA5",
+      "avatar": "avatar_bertrand",
+      "axes": {},
+      "confidence": "none",
+      "matchingReady": false,
+      "programStatus": "notPublished",
+      "statusVerifiedAt": "2026-09-09",
+      "statusSource": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-deja-declares/",
+      "toVerify": true,
+      "note": "Candidature dissidente à droite.",
+      "wikidataId": "Q203793",
+      "media": {
+        "photoURL": "https://upload.wikimedia.org/wikipedia/commons/9/97/Xavier_Bertrand_-_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "photoAttribution": "Photo : Claudio Centonze / European Union, 2025 / EC - Audiovisual Service / Wikimedia Commons, CC BY 4.0",
+        "photoLicense": "CC BY 4.0",
+        "photoSourcePage": "https://commons.wikimedia.org/wiki/File:Xavier_Bertrand_-_2025_(cropped).jpg"
+      },
+      "links": {
+        "wikipediaURL": "https://fr.wikipedia.org/wiki/Xavier_Bertrand"
+      }
+    },
+    {
+      "id": "batho",
+      "displayName": "Delphine Batho",
+      "party": "Génération Écologie",
+      "status": "declared",
+      "colorHex": "#2E8B57",
+      "avatar": "avatar_batho",
+      "axes": {},
+      "confidence": "none",
+      "matchingReady": false,
+      "programStatus": "notPublished",
+      "statusVerifiedAt": "2026-09-09",
+      "statusSource": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+      "toVerify": true,
+      "note": "Ajouté le 09/09/2026. Aucune position établie : exclu du calcul d'affinité jusqu'au lot E2.",
+      "wikidataId": "Q291385",
+      "media": {
+        "photoURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Delphine_Batho_%28cropped%29.png/960px-Delphine_Batho_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "photoAttribution": "Photo : DeuxSevres79 / Wikimedia Commons, CC BY-SA 4.0",
+        "photoLicense": "CC BY-SA 4.0",
+        "photoSourcePage": "https://commons.wikimedia.org/wiki/File:Delphine_Batho_(cropped).png"
+      },
+      "links": {
+        "officialWebsiteURL": "https://www.delphinebatho.fr",
+        "wikipediaURL": "https://fr.wikipedia.org/wiki/Delphine_Batho"
+      }
+    },
+    {
+      "id": "bouamrane",
+      "displayName": "Karim Bouamrane",
+      "party": "Parti socialiste",
+      "status": "expected",
+      "colorHex": "#E4407A",
+      "avatar": "avatar_bouamrane",
+      "axes": {},
+      "confidence": "none",
+      "matchingReady": false,
+      "programStatus": "notPublished",
+      "statusVerifiedAt": "2026-09-09",
+      "statusSource": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+      "toVerify": true,
+      "note": "Recensé parmi les déclarés par LCP ; absent de la liste des candidats à la primaire relevée par Public Sénat. À clarifier.",
+      "wikidataId": "Q98251165",
+      "media": {
+        "photoURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Karim_Bouamrane_en_2026.jpg/960px-Karim_Bouamrane_en_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "photoAttribution": "Photo : Oumma / Wikimedia Commons, CC BY 4.0",
+        "photoLicense": "CC BY 4.0",
+        "photoSourcePage": "https://commons.wikimedia.org/wiki/File:Karim_Bouamrane_en_2026.jpg"
+      },
+      "links": {
+        "wikipediaURL": "https://fr.wikipedia.org/wiki/Karim_Bouamrane"
+      }
+    },
+    {
+      "id": "arthaud",
+      "displayName": "Nathalie Arthaud",
+      "party": "Lutte ouvrière",
+      "status": "declared",
+      "colorHex": "#B22222",
+      "avatar": "avatar_arthaud",
+      "axes": {},
+      "confidence": "none",
+      "matchingReady": false,
+      "programStatus": "notPublished",
+      "statusVerifiedAt": "2026-09-09",
+      "statusSource": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+      "toVerify": true,
+      "note": "Ajouté le 09/09/2026. Aucune position établie : exclu du calcul d'affinité jusqu'au lot E2.",
+      "wikidataId": "Q439490",
+      "media": {
+        "photoURL": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Nathalie_Arthaud_%28LO%29_19-05-2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "photoAttribution": "Photo : Kokluts / Wikimedia Commons, CC BY-SA 4.0",
+        "photoLicense": "CC BY-SA 4.0",
+        "photoSourcePage": "https://commons.wikimedia.org/wiki/File:Nathalie_Arthaud_(LO)_19-05-2024.jpg"
+      },
+      "links": {
+        "officialWebsiteURL": "http://www.nathalie-arthaud.info/",
+        "wikipediaURL": "https://fr.wikipedia.org/wiki/Nathalie_Arthaud"
+      }
+    },
+    {
+      "id": "dupontaignan",
+      "displayName": "Nicolas Dupont-Aignan",
+      "party": "Debout la France",
+      "status": "declared",
+      "colorHex": "#0F4C81",
+      "avatar": "avatar_dupontaignan",
+      "axes": {},
+      "confidence": "none",
+      "matchingReady": false,
+      "programStatus": "notPublished",
+      "statusVerifiedAt": "2026-09-09",
+      "statusSource": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+      "toVerify": true,
+      "note": "Ajouté le 09/09/2026. Aucune position établie : exclu du calcul d'affinité jusqu'au lot E2.",
+      "wikidataId": "Q12961",
+      "media": {
+        "photoURL": "https://upload.wikimedia.org/wikipedia/commons/1/13/Nicolas_Dupont-Aignan%2C_homme_politique_fran%C3%A7ais.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "photoAttribution": "Photo : Debout la France / Wikimedia Commons, CC BY-SA 4.0",
+        "photoLicense": "CC BY-SA 4.0",
+        "photoSourcePage": "https://commons.wikimedia.org/wiki/File:Nicolas_Dupont-Aignan,_homme_politique_fran%C3%A7ais.jpg"
+      },
+      "links": {
+        "officialWebsiteURL": "https://www.dupontaignan.fr/",
+        "wikipediaURL": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan"
+      }
+    },
+    {
+      "id": "philippot",
+      "displayName": "Florian Philippot",
+      "party": "Les Patriotes",
+      "status": "declared",
+      "colorHex": "#1F3A93",
+      "avatar": "avatar_philippot",
+      "axes": {},
+      "confidence": "none",
+      "matchingReady": false,
+      "programStatus": "notPublished",
+      "statusVerifiedAt": "2026-09-09",
+      "statusSource": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+      "toVerify": true,
+      "note": "Ajouté le 09/09/2026. Aucune position établie : exclu du calcul d'affinité jusqu'au lot E2.",
+      "wikidataId": "Q3074223",
+      "media": {
+        "photoURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Florian_Philippot.jpg/960px-Florian_Philippot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "photoAttribution": "Photo : Films et documetnaires / Wikimedia Commons, CC BY 4.0",
+        "photoLicense": "CC BY 4.0",
+        "photoSourcePage": "https://commons.wikimedia.org/wiki/File:Florian_Philippot.jpg"
+      },
+      "links": {
+        "officialWebsiteURL": "https://florian-philippot.fr/",
+        "wikipediaURL": "https://fr.wikipedia.org/wiki/Florian_Philippot"
+      }
+    },
+    {
+      "id": "asselineau",
+      "displayName": "François Asselineau",
+      "party": "UPR",
+      "status": "declared",
+      "colorHex": "#6D4C9F",
+      "avatar": "avatar_asselineau",
+      "axes": {},
+      "confidence": "none",
+      "matchingReady": false,
+      "programStatus": "notPublished",
+      "statusVerifiedAt": "2026-09-09",
+      "statusSource": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+      "toVerify": true,
+      "note": "Ajouté le 09/09/2026. Aucune position établie : exclu du calcul d'affinité jusqu'au lot E2.",
+      "wikidataId": "Q12972",
+      "media": {
+        "photoURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Fran%C3%A7ois_ASSELINEAU.jpg/960px-Fran%C3%A7ois_ASSELINEAU.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "photoAttribution": "Photo : Union Populaire Républicaine / Wikimedia Commons, CC BY-SA 4.0",
+        "photoLicense": "CC BY-SA 4.0",
+        "photoSourcePage": "https://commons.wikimedia.org/wiki/File:Fran%C3%A7ois_ASSELINEAU.jpg"
+      },
+      "links": {
+        "officialWebsiteURL": "http://www.francoisasselineau.fr/",
+        "wikipediaURL": "https://fr.wikipedia.org/wiki/François_Asselineau"
+      }
+    }
+  ]
+}

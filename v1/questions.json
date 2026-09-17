@@ -17,29 +17,29 @@
       "axisId": "economie",
       "direction": -1,
       "weight": 2,
-      "text": "Il faut taxer davantage les plus hauts patrimoines pour financer les services publics.",
+      "text": "Il faut taxer davantage les plus hauts patrimoines.",
       "inAppClip": true
     },
     {
       "id": "q02",
       "axisId": "economie",
       "direction": 1,
-      "weight": 1,
-      "text": "Il faut baisser les impôts des entreprises pour favoriser l'emploi."
+      "weight": 2,
+      "text": "Il faut baisser les impôts sur les entreprises."
     },
     {
       "id": "q03",
       "axisId": "economie",
       "direction": -1,
       "weight": 1,
-      "text": "L'âge légal de départ à la retraite doit être ramené avant 64 ans.",
+      "text": "L'âge légal de départ à la retraite doit être abaissé.",
       "inAppClip": true
     },
     {
       "id": "q04",
       "axisId": "social",
       "direction": -1,
-      "weight": 2,
+      "weight": 1,
       "text": "Il faut embaucher massivement dans les hôpitaux publics, quitte à augmenter les dépenses.",
       "inAppClip": true
     },
@@ -47,7 +47,7 @@
       "id": "q05",
       "axisId": "social",
       "direction": 1,
-      "weight": 1,
+      "weight": 2,
       "text": "Il faut conditionner davantage les aides sociales à une activité ou une recherche d'emploi."
     },
     {
@@ -61,7 +61,7 @@
       "id": "q07",
       "axisId": "immigration",
       "direction": 1,
-      "weight": 2,
+      "weight": 1,
       "text": "La France doit réduire fortement l'immigration, y compris légale.",
       "inAppClip": true
     },
@@ -69,30 +69,30 @@
       "id": "q08",
       "axisId": "immigration",
       "direction": -1,
-      "weight": 1,
-      "text": "Il faut régulariser les travailleurs sans papiers présents dans les secteurs en tension."
+      "weight": 2,
+      "text": "Il faut régulariser les étrangers en situation irrégulière qui travaillent dans les secteurs en tension."
     },
     {
       "id": "q09",
       "axisId": "immigration",
       "direction": 1,
       "weight": 1,
-      "text": "Les aides sociales devraient être réservées en priorité aux citoyens français."
+      "text": "Les aides sociales doivent être réservées en priorité aux citoyens français."
     },
     {
       "id": "q10",
       "axisId": "securite",
       "direction": 1,
-      "weight": 2,
-      "text": "La justice est trop laxiste : il faut des peines plancher et leur exécution systématique.",
+      "weight": 1,
+      "text": "Il faut instaurer des peines planchers et garantir leur exécution.",
       "inAppClip": true
     },
     {
       "id": "q11",
       "axisId": "securite",
       "direction": -1,
-      "weight": 1,
-      "text": "Il faut investir davantage dans la prévention et l'éducation que dans la répression."
+      "weight": 2,
+      "text": "Il faut investir davantage dans la prévention et l'éducation que dans la sanction."
     },
     {
       "id": "q12",
@@ -105,7 +105,7 @@
       "id": "q13",
       "axisId": "ecologie",
       "direction": -1,
-      "weight": 2,
+      "weight": 1,
       "text": "Le climat justifie des mesures contraignantes, même impopulaires (interdictions, quotas, taxes).",
       "inAppClip": true
     },
@@ -113,15 +113,15 @@
       "id": "q14",
       "axisId": "ecologie",
       "direction": 1,
-      "weight": 1,
-      "text": "On ne doit pas imposer de nouvelles normes écologiques qui pénalisent le pouvoir d'achat."
+      "weight": 2,
+      "text": "La protection du pouvoir d'achat doit primer sur l'adoption de nouvelles normes écologiques."
     },
     {
       "id": "q15",
       "axisId": "ecologie",
       "direction": -1,
       "weight": 1,
-      "text": "Il faut sortir progressivement des énergies fossiles d'ici 2040, quoi qu'il en coûte."
+      "text": "Il faut sortir des énergies fossiles d'ici 2040, même si cela coûte cher."
     },
     {
       "id": "q16",
@@ -143,13 +143,13 @@
       "axisId": "europe",
       "direction": 1,
       "weight": 1,
-      "text": "Il faut désobéir aux règles budgétaires européennes si elles bloquent nos priorités nationales."
+      "text": "La France doit pouvoir s'affranchir des règles budgétaires européennes lorsqu'elles contrarient ses priorités."
     },
     {
       "id": "q19",
       "axisId": "institutions",
       "direction": -1,
-      "weight": 2,
+      "weight": 1,
       "text": "Les citoyens doivent pouvoir déclencher des référendums d'initiative citoyenne (RIC).",
       "inAppClip": true
     },
@@ -164,23 +164,23 @@
       "id": "q21",
       "axisId": "institutions",
       "direction": 1,
-      "weight": 1,
-      "text": "Introduire une forte dose de proportionnelle rendrait le pays ingouvernable."
+      "weight": 2,
+      "text": "Le scrutin législatif doit rester majoritaire plutôt que proportionnel."
     },
     {
       "id": "q22",
       "axisId": "societe",
       "direction": -1,
-      "weight": 2,
-      "text": "L'État doit activement protéger et étendre les droits des minorités (LGBT+, lutte contre les discriminations).",
+      "weight": 1,
+      "text": "L'État doit étendre les droits des minorités (LGBT+, lutte contre les discriminations).",
       "inAppClip": true
     },
     {
       "id": "q23",
       "axisId": "societe",
       "direction": 1,
-      "weight": 1,
-      "text": "L'école doit revenir aux fondamentaux : autorité, uniforme, transmission plutôt que pédagogies nouvelles."
+      "weight": 2,
+      "text": "L'école doit privilégier l'autorité et la transmission des savoirs plutôt que les pédagogies nouvelles."
     },
     {
       "id": "q24",
@@ -198,5 +198,6 @@
       "text": "Réduire la dette publique doit passer d'abord par la baisse des dépenses de l'État."
     }
   ],
-  "_editorialNote": "25 questions v1 — formulations à faire relire (neutralité, clarté, pas de double négation). L'app mélange l'ordre à chaque session. Répartition : 4 économie, 3 par autre axe."
+  "_editorialNote": "25 questions, passe de neutralité E3 appliquée le 16/09/2026. Répartition : 4 économie, 3 par autre axe. L'app mélange l'ordre à chaque session.",
+  "_weightingNote": "Les poids ne servent pas seulement à dire « cette question compte davantage » : sur chaque axe, la somme (direction × poids) vaut ZÉRO. C'est ce qui rend le questionnaire insensible au biais d'acquiescement — répondre « plutôt d'accord » à tout et « plutôt contre » à tout donnent le même classement, parce que ni l'un ni l'autre n'exprime d'opinion. Avant ce rééquilibrage, six axes sur huit penchaient : acquiescer à tout plaçait l'utilisateur à gauche sur l'économie, le social, l'écologie, les institutions et la société, et à droite sur l'immigration et la sécurité. TOUTE question ajoutée, retirée ou dont la direction change doit être compensée pour que la somme reste nulle."
 }

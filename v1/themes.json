@@ -15,15 +15,15 @@
       "icon": "heart.circle.fill",
       "colorHex": "#EC4899",
       "poleMinus": "Renforcer les protections et services publics",
-      "polePlus": "Réduire les dépenses, responsabiliser"
+      "polePlus": "Maîtriser les dépenses, cibler les aides"
     },
     {
       "id": "immigration",
       "name": "Immigration",
       "icon": "globe.europe.africa.fill",
       "colorHex": "#8B5CF6",
-      "poleMinus": "Faciliter l'accueil et l'intégration",
-      "polePlus": "Restreindre fortement l'immigration"
+      "poleMinus": "Ouvrir davantage l'accueil et l'intégration",
+      "polePlus": "Restreindre l'immigration"
     },
     {
       "id": "securite",
@@ -39,7 +39,7 @@
       "icon": "leaf.fill",
       "colorHex": "#22C55E",
       "poleMinus": "Transition écologique prioritaire, même contraignante",
-      "polePlus": "Ne pas contraindre l'économie au nom du climat"
+      "polePlus": "Priorité à l'économie et au pouvoir d'achat"
     },
     {
       "id": "europe",
@@ -70,7 +70,7 @@
     {
       "axisId": "economie",
       "title": "L'économie en 30 secondes",
-      "summary": "Le débat oppose ceux qui veulent que l'État redistribue davantage (impôts plus progressifs, hausse des salaires par la loi) à ceux qui veulent baisser impôts et charges pour libérer l'activité. Entre les deux : le sérieux budgétaire, avec une dette publique au cœur de la campagne 2027.",
+      "summary": "Le débat oppose ceux qui veulent que l'État redistribue davantage (impôts plus progressifs, hausse des salaires par la loi) à ceux qui veulent baisser impôts et charges. Entre les deux : le sérieux budgétaire, avec une dette publique au cœur de la campagne 2027.",
       "keyQuestions": [
         "Faut-il taxer davantage les plus riches ?",
         "Faut-il repousser ou revenir sur l'âge de la retraite ?",

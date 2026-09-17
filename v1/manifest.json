@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "contentVersion": 6,
+  "contentVersion": 7,
   "minAppVersion": "1.0.0",
-  "updatedAt": "2026-09-16",
+  "updatedAt": "2026-09-17",
   "files": {
     "questions": "questions.json",
     "candidates": "candidates.json",

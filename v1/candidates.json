@@ -322,10 +322,16 @@
       "matchingReady": true,
       "programStatus": "notPublished",
       "lastReviewedAt": "2026-07-10",
-      "statusVerifiedAt": "2026-09-09",
+      "statusVerifiedAt": "2026-09-22",
       "statusSource": "https://www.publicsenat.fr/actualites/politique/primaire-socialiste-des-jeux-plus-ouverts-que-prevu",
       "note": "Candidat à la primaire organisée par le PS, Place publique et la GRS en octobre 2026. Sa candidature à la présidentielle dépend du résultat. Dates exactes des deux tours divergentes selon les sources — à vérifier.",
-      "toVerify": true
+      "toVerify": true,
+      "primary": {
+        "name": "primaire socialiste",
+        "firstRoundDate": "2026-10-09",
+        "secondRoundDate": "2026-10-16",
+        "sourceURL": "https://fr.wikipedia.org/wiki/Primaire_pr%C3%A9sidentielle_socialiste_fran%C3%A7aise_de_2026"
+      }
     },
     {
       "id": "tondelier",
@@ -363,8 +369,13 @@
       "matchingReady": true,
       "programStatus": "notPublished",
       "lastReviewedAt": "2026-07-10",
-      "statusVerifiedAt": "2026-09-09",
-      "statusSource": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-deja-declares/"
+      "statusVerifiedAt": "2026-09-22",
+      "statusSource": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-deja-declares/",
+      "primary": {
+        "name": "primaire de la gauche unitaire",
+        "firstRoundDate": "2026-10-11",
+        "sourceURL": "https://fr.wikipedia.org/wiki/Primaire_de_la_gauche_unitaire_de_2026"
+      }
     },
     {
       "id": "ruffin",
@@ -402,10 +413,15 @@
       "matchingReady": true,
       "programStatus": "notPublished",
       "lastReviewedAt": "2026-07-10",
-      "statusVerifiedAt": "2026-09-09",
+      "statusVerifiedAt": "2026-09-22",
       "statusSource": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
       "note": "Absent des listes de candidats déclarés consultées le 09/09/2026 (LCP, Touteleurope). Statut abaissé de declared à expected par prudence — à confirmer avant publication.",
-      "toVerify": true
+      "toVerify": true,
+      "primary": {
+        "name": "primaire de la gauche unitaire",
+        "firstRoundDate": "2026-10-11",
+        "sourceURL": "https://fr.wikipedia.org/wiki/Primaire_de_la_gauche_unitaire_de_2026"
+      }
     },
     {
       "id": "melenchon",
@@ -555,10 +571,10 @@
       "confidence": "none",
       "matchingReady": false,
       "programStatus": "notPublished",
-      "statusVerifiedAt": "2026-09-09",
+      "statusVerifiedAt": "2026-09-22",
       "statusSource": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
       "toVerify": true,
-      "note": "Recensé parmi les déclarés par LCP ; absent de la liste des candidats à la primaire relevée par Public Sénat. À clarifier.",
+      "note": "Toujours candidat mais ne participera pas à la primaire socialiste (annonce du 26/08/2026). Sa candidature ne dépend donc d'aucun scrutin d'investiture. Statut « pressentie » à réexaminer : les sources le décrivent comme candidat déclaré.",
       "wikidataId": "Q98251165",
       "media": {
         "photoURL": "https://pourquivoter.github.io/pourquivoter-content/v1/photos/bouamrane.jpg",
@@ -686,6 +702,25 @@
       "links": {
         "officialWebsiteURL": "http://www.francoisasselineau.fr/",
         "wikipediaURL": "https://fr.wikipedia.org/wiki/François_Asselineau"
+      }
+    },
+    {
+      "id": "cazeneuve",
+      "displayName": "Bernard Cazeneuve",
+      "party": "La Convention",
+      "status": "declared",
+      "colorHex": "#8B5E83",
+      "avatar": "avatar_cazeneuve",
+      "axes": {},
+      "confidence": "none",
+      "matchingReady": false,
+      "programStatus": "notPublished",
+      "statusVerifiedAt": "2026-09-22",
+      "statusSource": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+      "toVerify": true,
+      "note": "Candidature déclarée le 16 juillet 2026 d'après le recensement de Wikipédia. Source de presse primaire à trouver avant de retirer ce marqueur. Aucune position établie : absent du classement.",
+      "links": {
+        "wikipediaURL": "https://fr.wikipedia.org/wiki/Bernard_Cazeneuve"
       }
     }
   ]
